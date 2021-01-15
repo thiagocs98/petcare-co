@@ -10388,3 +10388,42 @@ a.text-dark:focus, a.text-dark:hover {
 /*# sourceMappingURL=bootstrap.min.css.map */
 
 /*# sourceMappingURL=style.css.map */
+
+
+/* Sobre Nós */ 
+
+.textoSobreNos{
+    width: 420px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 1em auto;   
+}
+
+.textoSobreNos h1{
+    text-align: center;
+}
+
+.textoSobreNos h3{
+    text-align: center;
+}
+
+.textoSobreNos p{
+    text-align: center
+}
+
+/* Seja Doador */ 
+
+.textoSejaDoador{
+    width: 420px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 1em auto;   
+}
+
+.textoSejaDoador h3{
+  text-align: center;
+}
+
+.textoSejaDoador p{
+  text-align: center
+}
