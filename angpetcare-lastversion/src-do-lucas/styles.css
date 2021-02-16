@@ -1,0 +1,10 @@
+.card {
+    background-color: #6ecfc3;
+    width: 420px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 1em auto;
+}
+header.container-fluid{
+  background-color: #009688;
+}
